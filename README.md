@@ -115,10 +115,3 @@ DELETE /api/laundries/:id
 
 By:    Maz Ulex Galaxy
 email: mazprom65@gmail.com
-
-
-
-
-
-
-

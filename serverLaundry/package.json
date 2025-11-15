@@ -1,8 +1,10 @@
 {
   "name": "serverLaundry",
-  "scripts": {
-    "dev": "bun run --hot src/index.ts"
-  },
+"scripts": {
+  "dev": "bun run --hot src/index.ts",
+  "build": "tsc"
+},
+
   "dependencies": {
     "@types/cors": "^2.8.19",
     "@vercel/node": "^5.5.6",
